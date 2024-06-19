@@ -19,11 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 Windows.startApplicationWithTitle('C:\\Windows\\notepad.exe', 'credentials - Notepad')
 
-Windows.click(findWindowsObject('Object Repository/Button'))
-
-Windows.click(findWindowsObject('Object Repository/Document'))
-
-Windows.setText(findWindowsObject('Object Repository/Document'), 'asc')
-
-Windows.click(findWindowsObject('Object Repository/Window'))
+Windows.closeApplication()
 

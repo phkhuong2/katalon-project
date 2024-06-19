@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,20-06-2024 00:55:23,20-06-2024 00:55:24,"1,268s",PASSED
+,,,,,,,
+Test Cases/New Test Case,,,,20-06-2024 00:55:23,20-06-2024 00:55:24,"1,164s",PASSED
+"startApplicationWithTitle(""C:\Windows\notepad.exe"", ""credentials - Notepad"")",,,,20-06-2024 00:55:23,20-06-2024 00:55:24,"0,920s",PASSED
+closeApplication(),,,,20-06-2024 00:55:24,20-06-2024 00:55:24,"0,081s",PASSED

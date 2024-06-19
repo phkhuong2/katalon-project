@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+deskstop,,,,19-06-2024 23:44:42,19-06-2024 23:46:46,"2m - 3,618s",FAILED
+,,,,,,,
+Test Cases/destops,,,,19-06-2024 23:46:15,19-06-2024 23:46:46,"30,595s",FAILED
+"startApplicationWithTitle(""C:\Windows\notepad.exe"", ""credentials - Notepad"")",,,,19-06-2024 23:46:15,19-06-2024 23:46:16,"0,412s",PASSED
+"click(findWindowsObject(""Object Repository/Button""))",,,,19-06-2024 23:46:16,19-06-2024 23:46:46,"30,166s",FAILED
