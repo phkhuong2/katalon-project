@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="api" time="2.159" tests="1" failures="0" errors="0">
+   <testsuite name="api" tests="1" failures="0" errors="0" time="2.159" skipped="0" timestamp="19-06-2024T23:28:48" hostname="Admin - MSI" id="Test Suites/api">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\Katalon\\katalon-project\\Reports\\20240619_232841\\api\\20240619_232842"/>
+         <property name="logFiles" value="D:\\Katalon\\katalon-project\\Reports\\20240619_232841\\api\\20240619_232842\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - MSI"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+      </properties>
+      <testcase name="Test Cases/ad" time="2.007" classname="Test Cases/ad" status="PASSED">
+         <system-out><![CDATA[19-06-2024T23:28:48 - [TEST_CASE][PASSED] - Test Cases/ad: Test Cases/ad
+
+19-06-2024T23:28:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("ac/New Request")): Send request successfully
+
+19-06-2024T23:28:50 - [MESSAGE][INFO] - HAR: D:\Katalon\katalon-project\Reports\20240619_232841\api\20240619_232842\requests\main\0.har
+
+19-06-2024T23:28:50 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-06-2024T23:28:48 - [TEST_SUITE][PASSED] - api: Test Cases/ad]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

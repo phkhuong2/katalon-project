@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+api,,,,19-06-2024 23:28:48,19-06-2024 23:28:50,"2,159s",PASSED
+,,,,,,,
+Test Cases/ad,,,,19-06-2024 23:28:48,19-06-2024 23:28:50,"2,007s",PASSED
+"sendRequest(findTestObject(""ac/New Request""))",,,,19-06-2024 23:28:49,19-06-2024 23:28:50,"1,812s",PASSED
